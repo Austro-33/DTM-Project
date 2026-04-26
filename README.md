@@ -12,6 +12,6 @@
 
 ## EP.01 | Kleines Einmaleins der thematischen Kartographie | Dasymetrische Choroplethenkarte
 
-#### Kirschenbäume in Berlin - Darstellung mit SVG Datei
+#### Kirschenbäume in Berlin - Darstellung mit SVG Datei [Arbeitsauftrag 3]
 
 <img width="3507" height="2480" alt="Blütenbäume in Berlin - SVG" src="https://github.com/user-attachments/assets/07fd6ca4-fec2-4b77-b587-ef86a4e18b2e" />
