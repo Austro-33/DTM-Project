@@ -10,8 +10,10 @@
 
 <img width="2000" height="1413" alt="Download (1)" src="https://github.com/user-attachments/assets/2d42a15e-b218-4549-8843-75a1b0fb69a0" />
 
-## EP.01 | Kleines Einmaleins der thematischen Kartographie | Dasymetrische Choroplethenkarte
+## EP.03 | Punktrasterkarten
 
 ### Kirschenbäume in Berlin - Darstellung mit SVG Datei [Arbeitsauftrag 3]
 
 <img width="3507" height="2480" alt="Blütenbäume in Berlin - SVG" src="https://github.com/user-attachments/assets/07fd6ca4-fec2-4b77-b587-ef86a4e18b2e" />
+
+### Kirschbäume in Berlin - Punkteraster [Arbeitsauftrag 4]
