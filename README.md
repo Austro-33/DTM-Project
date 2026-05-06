@@ -17,3 +17,5 @@
 <img width="3507" height="2480" alt="Blütenbäume in Berlin - SVG" src="https://github.com/user-attachments/assets/07fd6ca4-fec2-4b77-b587-ef86a4e18b2e" />
 
 ### Kirschbäume in Berlin - Punkteraster [Arbeitsauftrag 4]
+
+<img width="3507" height="2480" alt="Punktlayout_JonasKrüger" src="https://github.com/user-attachments/assets/19467a6a-b303-4b1a-9d7a-be22ad21d450" />
