@@ -18,4 +18,4 @@
 
 ### Kirschbäume in Berlin - Punkteraster [Arbeitsauftrag 4]
 
-<img width="3507" height="2480" alt="Punktlayout_JonasKrüger" src="https://github.com/user-attachments/assets/19467a6a-b303-4b1a-9d7a-be22ad21d450" />
+<img width="3507" height="2480" alt="Punktlayout_JonasKrüger" src="https://github.com/user-attachments/assets/028c4202-cfe4-4784-a0d1-e43ecc6e99ac" />
