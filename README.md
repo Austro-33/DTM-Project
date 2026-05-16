@@ -19,3 +19,11 @@
 ### Kirschbäume in Berlin - Punkteraster [Arbeitsauftrag 4]
 
 <img width="3507" height="2480" alt="Punktlayout_JonasKrüger" src="https://github.com/user-attachments/assets/028c4202-cfe4-4784-a0d1-e43ecc6e99ac" />
+
+## EP.04 | Value-By-Alpha Mapping
+
+### Ungarn_Wahlen_2026 - Value-By-Alpha Mapping/Chloroplethenkarte [Arbeitsauftrag 5]
+
+Das Kartenlayout visualisiert die Ergebnisse der ungarischen Parlamentswahl 2026 auf Ebene der Wahlbezirke. Die in der Lehrveranstaltung erstellte Value-by-Alpha-Map kombiniert eine regelbasierte Symbolisierung, bei der die Gewinnerpartei (Tisza oder Fidesz) durch den Farbton dargestellt wird, während die Transparenz den jeweiligen Vorsprung zwischen den Parteien visualisiert. Ergänzend wurden zwei Choroplethenkarten erstellt, welche die Stimmenanteile von Fidesz und Tisza bezogen auf die Wahlberechtigten in den einzelnen Wahlbezirken darstellen.
+
+<img width="4960" height="3507" alt="Ungarn_Wahlen" src="https://github.com/user-attachments/assets/b0439588-021b-4e59-b203-2a0bb3dda56a" />
