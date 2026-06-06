@@ -33,3 +33,17 @@ Das Kartenlayout visualisiert die Ergebnisse der ungarischen Parlamentswahl 2026
 ### Ukraine Flüchtlingsbewegung [Arbeitsauftrag 6]
 
 <img width="3507" height="2480" alt="Earth_Ukraine" src="https://github.com/user-attachments/assets/fb7fe34d-277a-4c4f-9f5e-7e86e993b27c" />
+
+## EP.06 | Tilemaps
+
+### Berlin - Legokarte 
+
+Für die Berliner Lego-Karte wurde ein regelmäßiges Gitter über das Untersuchungsgebiet gelegt und mit Höheninformationen aus einem digitalen Geländemodell verknüpft. Durch die Symbolisierung der Gitterzellen im Lego-Stil entsteht eine vereinfachte, aber gut erkennbare Darstellung der Reliefunterschiede innerhalb Berlins.
+
+<img width="4960" height="3507" alt="Berlin_Lego" src="https://github.com/user-attachments/assets/589567a2-1312-4b64-ac22-eee7adac1a0a" />
+
+### Deutschland - Legokarte
+
+Für die Deutschland-Karte wurde derselbe Workflow wie bei der Berliner Lego-Karte angewendet. Dabei wurden die bereits entwickelten Symbolisierungs- und Stileinstellungen übernommen und lediglich an die größere räumliche Ausdehnung sowie den Wertebereich des deutschlandweiten Höhenmodells angepasst, um das Relief Deutschlands im Lego-Stil darzustellen.
+
+<img width="3507" height="4960" alt="Deutschland_Lego" src="https://github.com/user-attachments/assets/06ec9115-05cb-422d-8684-abb6a4822f43" />
