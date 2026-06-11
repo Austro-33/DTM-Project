@@ -47,3 +47,11 @@ Für die Berliner Lego-Karte wurde ein regelmäßiges Gitter über das Untersuch
 Für die Deutschland-Karte wurde derselbe Workflow wie bei der Berliner Lego-Karte angewendet. Dabei wurden die bereits entwickelten Symbolisierungs- und Stileinstellungen übernommen und lediglich an die größere räumliche Ausdehnung sowie den Wertebereich des deutschlandweiten Höhenmodells angepasst, um das Relief Deutschlands im Lego-Stil darzustellen.
 
 <img width="3507" height="4960" alt="Deutschland_Lego" src="https://github.com/user-attachments/assets/06ec9115-05cb-422d-8684-abb6a4822f43" />
+
+## EP.07 | Animation in QGIS
+
+### Meteorschauer - 12/13 August - Deutschland
+
+### Meteorschauer [Arbeitsauftrag_7] 
+
+<img width="1256" height="737" alt="perseiden_animation" src="https://github.com/user-attachments/assets/f1d39a11-552e-42fa-91d0-2ee004d8df45" />
