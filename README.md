@@ -52,6 +52,6 @@ Für die Deutschland-Karte wurde derselbe Workflow wie bei der Berliner Lego-Kar
 
 ### Meteorschauer - 12/13 August - Deutschland
 
-### Meteorschauer [Arbeitsauftrag_7] 
-
 <img width="1256" height="737" alt="perseiden_animation" src="https://github.com/user-attachments/assets/f1d39a11-552e-42fa-91d0-2ee004d8df45" />
+
+### Meteorschauer [Arbeitsauftrag_7] 
