@@ -52,6 +52,8 @@ Für die Deutschland-Karte wurde derselbe Workflow wie bei der Berliner Lego-Kar
 
 ### Meteorschauer - 12/13 August - Deutschland
 
+Für diese Karte wurden Meteorbeobachtungen eines ausgewählten Meteorstroms für Deutschland ausgewertet und zeitlich animiert dargestellt. Die Flugbahnen der Meteore wurden aus den Beobachtungsdaten berechnet und als Linien visualisiert, wodurch die räumliche Verteilung sowie die zeitliche Entwicklung des Meteorstroms während einer Nacht nachvollzogen werden können.
+
 <img width="1256" height="737" alt="perseiden_animation" src="https://github.com/user-attachments/assets/f1d39a11-552e-42fa-91d0-2ee004d8df45" />
 
 ### Meteorschauer [Arbeitsauftrag_7] 
