@@ -62,6 +62,6 @@ Die Animation zeigt die über Bulgarien beobachteten Meteore des Geminiden-Meteo
 
 Aus Gründen der Dateigröße wurde für die Einbindung in GitHub eine zeitlich verdichtete Version der Animation verwendet. Die ursprüngliche Animation wurde minutengenau erstellt.
 
-<img width="1756" height="950" alt="Geminids_animation" src="https://github.com/user-attachments/assets/78b56fab-c39e-4b2a-823b-8e67494bf955" />
+<img width="1756" height="950" alt="Meteorschauer" src="https://github.com/user-attachments/assets/fd3b4ad3-2603-431b-8704-f184288ac6fe" />
 
 
