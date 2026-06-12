@@ -57,3 +57,11 @@ Für diese Karte wurden Meteorbeobachtungen eines ausgewählten Meteorstroms fü
 <img width="1256" height="737" alt="perseiden_animation" src="https://github.com/user-attachments/assets/f1d39a11-552e-42fa-91d0-2ee004d8df45" />
 
 ### Meteorschauer [Arbeitsauftrag_7] 
+
+Die Animation zeigt die über Bulgarien beobachteten Meteore des Geminiden-Meteorstroms am 13. Dezember 2025. Die Flugbahnen wurden aus Beobachtungsdaten rekonstruiert und minutengenau animiert dargestellt, wodurch die zeitliche Verteilung der beobachteten Sternschnuppen im Untersuchungsgebiet nachvollzogen werden kann.
+
+Aus Gründen der Dateigröße wurde für die Einbindung in GitHub eine zeitlich verdichtete Version der Animation verwendet. Die ursprüngliche Animation wurde minutengenau erstellt.
+
+<img width="1756" height="950" alt="Geminids_animation" src="https://github.com/user-attachments/assets/78b56fab-c39e-4b2a-823b-8e67494bf955" />
+
+
