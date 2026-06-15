@@ -2,6 +2,8 @@
 
 ### Berliner Bevölkerung 2024 [Arbeitsauftrag 1]
 
+In dieser Aufgabe haben wir 3 verschiedenen Methoden zur Darstellung von Bevölkerungsdaten erstellt. Eine absolute und eine relative Chloroplethenkarte waren zwei der Darstellungen und die dritte war eome dasy,etrische Chloroplethenkarte, bei der die Bevölkerungszahlen auf tatsächlich bewohnten Flächen verteilt wurde. Diese drei Versionen mussten wir auf 1 Layout nebeneinander stellen, um den Unterschied der Darstellung sichtbarer zu machen und damit die bevölkerungsverteilung genauer interpretiert werden kann. 
+
 <img width="2000" height="1413" alt="Download" src="https://github.com/user-attachments/assets/a7913cbc-82a3-43e1-aeaf-967b2ba207cd" />
 
 ## EP.02 | Kleines Einmaleins der thematischen Kartographie | Gitterchoroplethenkarten
