@@ -10,15 +10,21 @@ In dieser Aufgabe haben wir 3 verschiedenen Methoden zur Darstellung von Bevölk
 
 ### Kirschbäume in Berlin [Arbeitsauftrag 2]
 
+Hier war es unsere Aufgabe, eine, in der Lehrveranstaltungs erstellte, Gitterchoroplethenkarte zu reproduzieren, nur als ein Hexagonengitter. Grundlage  bildete ein Datensatz der die Berliner Straßenbäume und ihre Position enthielt. Aus diesem wurden alle Kirschbaumarten gefiltert und dann innerhalb von Hexagonen mit einer Seitenlänge von 500m zusammengefasst. Die Darstellung ermöglicht eine übersichtliche Analyse der räumlichen Verteilung von Kirschbäumen im Berliner Stadtgebiet. 
+
 <img width="2000" height="1413" alt="Download (1)" src="https://github.com/user-attachments/assets/2d42a15e-b218-4549-8843-75a1b0fb69a0" />
 
 ## EP.03 | Punktrasterkarten
 
 ### Kirschenbäume in Berlin - Darstellung mit SVG Datei [Arbeitsauftrag 3]
 
+Auf Grundlage des bereits verwendeten Datensatz, aus dem 2. Arbeitsauftrag, haben wir in einer Lernveranstaltung ein Punkteraster erstellt. Um die Verteilung der Kirschebäume visuell hervorzuheben und eine kartrographisch ansprechende Darstellung zu erreichen, haben wir dann individuell gestalte SVG-Symbole benutzt, um sie im Platz von den Punkten, bzw. hexagonen einzufügen. Ihre größe passt sich der jeweiligen Menge der Bäume in diesem gebiet an. 
+
 <img width="3507" height="2480" alt="Blütenbäume in Berlin - SVG" src="https://github.com/user-attachments/assets/07fd6ca4-fec2-4b77-b587-ef86a4e18b2e" />
 
 ### Kirschbäume in Berlin - Punkteraster [Arbeitsauftrag 4]
+
+In 4. Arbeitsautrag sollten wir die SVG-Darstellung als eigenständiges Punkterasterkarte darstellen. Die Kirschbaumdaten wurden als Punkte dargestellt, wobei die Größe und die Farbgebung, ähnlich wie bei den Karten zuvor, die Anzahl der Kirschbäume repräsentiert.
 
 <img width="3507" height="2480" alt="Punktlayout_JonasKrüger" src="https://github.com/user-attachments/assets/028c4202-cfe4-4784-a0d1-e43ecc6e99ac" />
 
