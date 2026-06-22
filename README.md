@@ -72,4 +72,11 @@ Aus Gründen der Dateigröße wurde für die Einbindung in GitHub eine zeitlich 
 
 <img width="1756" height="950" alt="Meteorschauer" src="https://github.com/user-attachments/assets/fd3b4ad3-2603-431b-8704-f184288ac6fe" />
 
+## EP.08 | Mesh-Daten
+
+### Orkan Kyrill Animation [Arbeitsauftrag_8]
+
+Für diesen Arbeitsauftrag haben wir eine GIF-Animation der Windgeschwindigkeiten des Orkans Kyrill für den Zeitraum vom 16. bis 21. Januar 2007 erstellt. Die Daten stammen aus dem ERA5-Reanalyse-Datensatz des Copernicus Climate Change Service (C3S) und wurden in QGIS zeitlich animiert. Zur Gestaltung wurde ein künstlerischer Stil mit dunklem Hintergrund und angepasstem Farbverlauf verwendet. Die Animation enthält einen Zeitstempel sowie ein Impressum mit Quellenangabe.
+
+<img width="1380" height="710" alt="Arbeitsauftrag_8" src="https://github.com/user-attachments/assets/0c570e0b-3deb-469a-9cd1-03591446809d" />
 
