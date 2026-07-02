@@ -80,3 +80,13 @@ Für diesen Arbeitsauftrag haben wir eine GIF-Animation der Windgeschwindigkeite
 
 <img width="1380" height="710" alt="Arbeitsauftrag_8" src="https://github.com/user-attachments/assets/0c570e0b-3deb-469a-9cd1-03591446809d" />
 
+## EP.09 | 3D-Gebäudemodelle
+
+### 2,5D-Gebäudemodell Thüringen [Arbeitsauftrag_9]
+
+In diesem Arbeitsauftrag wurde für einen ausgewählten Bereich in Thüringen eine 2,5D-Darstellung von Gebäuden erstellt. Als Datengrundlage dienten die LoD2-Gebäudedaten des Thüringer Geoportals, welche in QGIS importiert und mit dem integrierten 2,5D-Renderer visualisiert wurden.
+
+Für die Darstellung wurde die im Datensatz enthaltene Gebäudehöhe (measuredHeight) verwendet, wodurch die Gebäude entsprechend ihrer tatsächlichen Höhe extrudiert werden. Zusätzlich wurden Perspektive und Symbolisierung angepasst, um eine übersichtliche und räumliche Darstellung des ausgewählten Stadtgebietes zu erzeugen.
+
+<img width="1691" height="1188" alt="Thüringen_Erfurt_25" src="https://github.com/user-attachments/assets/ef58d477-fc02-4182-91b3-3b1a4b6741ea" />
+
