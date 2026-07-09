@@ -38,9 +38,20 @@ Das Kartenlayout visualisiert die Ergebnisse der ungarischen Parlamentswahl 2026
 
 ## EP.05 | Ursprung-Ziel-Karten
 
-### Ukraine Flüchtlingsbewegung [Arbeitsauftrag 6]
+### Ukraine Flüchtlingsbewegung 
 
 <img width="3507" height="2480" alt="Earth_Ukraine" src="https://github.com/user-attachments/assets/fb7fe34d-277a-4c4f-9f5e-7e86e993b27c" />
+
+### Flüchtlingsbewegungen nach Deutschland
+
+In dieser Übung wurde eine Ursprung-Ziel-Karte (Origin-Destination Map) in QGIS erstellt. Grundlage bilden die UNHCR-Flüchtlingsdaten für das Jahr 2025, wobei Deutschland als Zielland gewählt wurde. Ausgehend von den Herkunftsländern wurden Linien zum Zentrum Deutschlands erzeugt, um die wichtigsten Fluchtbewegungen darzustellen.
+
+Für die Umsetzung wurden zunächst die UNHCR-Daten mit den Natural Earth Admin-0-Länderdaten über ISO-Codes verknüpft. Anschließend wurden die Herkunftsländer gefiltert, Zentroiden berechnet und mithilfe des Werkzeugs XY to Line Ursprung-Ziel-Linien erstellt. Durch eine benutzerdefinierte orthografische Projektion wurde die Erde auf Deutschland zentriert und als Globus dargestellt.
+
+Zur Verbesserung der Übersichtlichkeit wurden nur Herkunftsländer mit mindestens 1.000 registrierten Flüchtlingen berücksichtigt. Dadurch werden die wichtigsten Fluchtbewegungen hervorgehoben und die Karte bleibt trotz der Vielzahl an Datensätzen gut lesbar. Zusätzlich wurde die Linienstärke nach der Anzahl der Flüchtlinge abgestuft, sodass größere Fluchtbewegungen unmittelbar erkennbar sind.
+
+<img width="3507" height="2480" alt="Erde_Deutschland_Top_Einwanderer" src="https://github.com/user-attachments/assets/ec0ab9da-0d3b-4034-a659-5f4e4fad7880" />
+
 
 ## EP.06 | Tilemaps
 
